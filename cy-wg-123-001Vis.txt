@@ -1,9 +1,9 @@
 397399
 c:\programdata\codesys v2.3\compile\visu_ini.xml
 c:\programdata\codesys v2.3\compile\alm_ini.xml
-c:\program files\wago software\codesys v2.3\visu\minml.jar
-c:\program files\wago software\codesys v2.3\visu\webvisu.jar
-c:\program files\wago software\codesys v2.3\visu\webvisu.htm
+c:\program files (x86)\wago software\codesys v2.3\visu\minml.jar
+c:\program files (x86)\wago software\codesys v2.3\visu\webvisu.jar
+c:\program files (x86)\wago software\codesys v2.3\visu\webvisu.htm
 c:\programdata\codesys v2.3\compile\plc_visu.xml
 c:\programdata\codesys v2.3\compile\plc_visu_inv.xml
 c:\programdata\codesys v2.3\compile\plc_visu_str.xml
